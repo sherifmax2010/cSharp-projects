@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36327.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePoint", "ConsoleApp1\ThePoint.csproj", "{A3DB2A8E-850C-492A-90CB-0D7DFBAD4FF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheColor", "TheColor\TheColor.csproj", "{B39D4240-3531-4611-B203-FA86DF32A0A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3DB2A8E-850C-492A-90CB-0D7DFBAD4FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3DB2A8E-850C-492A-90CB-0D7DFBAD4FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3DB2A8E-850C-492A-90CB-0D7DFBAD4FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3DB2A8E-850C-492A-90CB-0D7DFBAD4FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39D4240-3531-4611-B203-FA86DF32A0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39D4240-3531-4611-B203-FA86DF32A0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39D4240-3531-4611-B203-FA86DF32A0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39D4240-3531-4611-B203-FA86DF32A0A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {362570D9-986A-4612-B630-4E3D5FBFFEB0}
+		SolutionGuid = {4E0C9510-3BE2-4DB0-A1BC-E78FFEC86A7F}
 	EndGlobalSection
 EndGlobal

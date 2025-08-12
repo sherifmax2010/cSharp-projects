@@ -1,0 +1,15 @@
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\bin\Debug\net8.0\TheColor.exe
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\bin\Debug\net8.0\TheColor.deps.json
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\bin\Debug\net8.0\TheColor.runtimeconfig.json
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\bin\Debug\net8.0\TheColor.dll
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\bin\Debug\net8.0\TheColor.pdb
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfoInputs.cache
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfo.cs
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.csproj.CoreCompileInputs.cache
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.sourcelink.json
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.dll
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\refint\TheColor.dll
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.pdb
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\TheColor.genruntimeconfig.cache
+C:\Users\sherif\source\repos\sherifmax2010\cSharp-projects\TheColor\TheColor\obj\Debug\net8.0\ref\TheColor.dll
