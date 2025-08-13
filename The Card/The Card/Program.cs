@@ -1,4 +1,13 @@
-﻿
+﻿foreach (color c in Enum.GetValues(typeof(color)))
+{
+    foreach (rank r in Enum.GetValues(typeof(rank)))
+    {   
+        //String cc = Convert.ToString(c);
+        //String rr = Convert.ToString(r);
+        Card me = new Card(c, r);
+        Console.WriteLine($"The {me.color} {me.rank}");
+    }
+}
 enum color
 {
     red,
@@ -25,9 +34,9 @@ enum rank
 }
 class Card
 {
-    public string color;
-    public string rank;
-    public Card(string Color, string rank)
+    public color color;
+    public rank rank;
+    public Card(color color, rank rank)
     {
         this.color = color;
         this.rank = rank;
