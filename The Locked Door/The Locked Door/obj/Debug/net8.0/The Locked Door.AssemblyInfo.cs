@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Locked Door")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb139b699884f3a1b79178a64ce6871ccac18b18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7472b38c633845e0eafcc74bc56657faad54cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Locked Door")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Locked Door")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
